@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+python-dotenv
+pypdf
+python-docx
+beautifulsoup4
+lxml
+sentence-transformers
+torch
+faiss-cpu
+numpy
